@@ -1,2 +1,2 @@
-# Minor-Project-Data-Science
+# Mini-Project
 Image Classification of Apple,Banana and Grapes
